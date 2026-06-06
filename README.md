@@ -64,9 +64,7 @@ The focus is on text structure, character analysis, and topic modeling.
 
 ## Project Structure
 
-NLP-Dune/
-│
-├── dune_analysis.ipynb        # main research notebook
-├── README.md
-├── dune.txt                   # raw book text (English version)
-└── characters_semantic_map.png  # character relationship visualization
+- dune_analysis.ipynb   (main research notebook)
+- README.md
+- dune.txt              (raw book text, English version)
+- characters_semantic_map.png  (character relationship visualization)
